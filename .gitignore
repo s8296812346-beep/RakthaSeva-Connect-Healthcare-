@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+captures/
+functions/node_modules/
+functions/lib/
+*.iml
